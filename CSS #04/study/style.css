@@ -1,4 +1,9 @@
-article h1 ~ p {
-  color: red;
+div {
+  background-color: orange;
+  border: 3px solid black;
+}
+
+.fix {
+  all: unset;
 }
 /*# sourceMappingURL=style.css.map */
