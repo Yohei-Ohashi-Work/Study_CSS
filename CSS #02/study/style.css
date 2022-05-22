@@ -1,0 +1,8 @@
+div {
+  color: red;
+  font-size: 3rem;
+  background-color: rgba(250, 95, 250, 0.404);
+  width: calc(100% / 3);
+  margin: 100px 0 50px 100px;
+}
+/*# sourceMappingURL=style.css.map */
