@@ -1,0 +1,76 @@
+.container {
+  width: 1000px;
+  background-color: coral;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.item {
+  height: 200px;
+}
+
+.item1 {
+  background-color: pink;
+}
+
+.item2 {
+  background-color: skyblue;
+}
+
+.measure {
+  width: 1000px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.measure div {
+  padding: 5px;
+  width: 100px;
+  border: 1px solid black;
+  text-align: right;
+}
+
+.measure div:nth-of-type(1) {
+  background-color: #c8ffc8;
+}
+
+.measure div:nth-of-type(2) {
+  background-color: #a0ffa0;
+}
+
+.measure div:nth-of-type(3) {
+  background-color: #78ff78;
+}
+
+.measure div:nth-of-type(4) {
+  background-color: #50ff50;
+}
+
+.measure div:nth-of-type(5) {
+  background-color: #28ff28;
+}
+
+.measure div:nth-of-type(6) {
+  background-color: lime;
+}
+
+.measure div:nth-of-type(7) {
+  background-color: #00e100;
+}
+
+.measure div:nth-of-type(8) {
+  background-color: #00c300;
+}
+
+.measure div:nth-of-type(9) {
+  background-color: #00a500;
+}
+
+.measure div:nth-of-type(10) {
+  background-color: #008700;
+}
+/*# sourceMappingURL=style.css.map */
